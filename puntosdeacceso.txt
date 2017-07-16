@@ -1,0 +1,5 @@
+hacer un bicep
+POST
+http://192.168.1.89/Deporte/bicep.php
+parametros
+pesokilogramo // numero entero
